@@ -1,0 +1,8 @@
+
+*.gch
+
+assets/debug\.log
+
+assets/text/score
+
+code/project

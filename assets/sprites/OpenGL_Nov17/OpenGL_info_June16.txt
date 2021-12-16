@@ -1,0 +1,14 @@
+OpenGL Logo
+Revised June 2016
+
+Colors
+	RGB: 85, 134, 164
+	Hex: #5586A4
+	CMYK: 70, 39, 24, 1
+	PMS: 7697
+
+Fonts	
+	Main Font: Helvetica Neue 55 Roman, Helvetica Neue 75 Bold
+	TM/Registered TM: Helvetica Neue 75 Bold
+
+See included style guide PDF for usage guidelines.
